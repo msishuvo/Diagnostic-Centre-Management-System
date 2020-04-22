@@ -1,4 +1,4 @@
-# Diagnostic-Centre-Management-System
+# Java-Based-Diagnostic-Centre-Management-System-with-GUI
 DCMS (Diagnostic Centre Management System) is developed using JAVA with GUI (Window Builder). By using this program, patient's information, personal details, diagnosis information and bill information, etc can be digitally ensured.
 
 
